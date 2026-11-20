@@ -1,6 +1,6 @@
 # Incremental Adventure Rewritten — Live-Build
 
-**▶ [Jetzt spielen](https://danielzaiser91.github.io/incremental-adventure-rewritten-live/)** — direkt im Browser, ohne Installation, ohne Konto.
+**▶ [Jetzt spielen](https://dernamenlosedaniel.github.io/incremental-adventure-rewritten-live/)** — direkt im Browser, ohne Installation, ohne Konto.
 
 Ein Fantasy-RPG-Incremental: Man beginnt als namenloser Abenteurer bei einer Ratte im Keller und arbeitet sich bis zu dem Wesen hoch, zu dem Götter beten. Der Kern ist eine automatische Kampfschleife — alles darüber sind acht Prestige-Ebenen, von denen jede ein **neues Verb** einführt statt nur größerer Zahlen.
 
@@ -34,6 +34,6 @@ Läuft in jedem aktuellen Browser. Ein bereits begonnener Spielstand bleibt übe
 
 A fantasy RPG incremental — you start with a rat in a cellar and end up as the thing gods pray to. Eight prestige layers, each adding a genuinely new mechanic rather than just bigger numbers: a soul grid, a rune codex, a roguelite run mode, and more. Free, browser-based, no account, German and English.
 
-**[Play it here](https://danielzaiser91.github.io/incremental-adventure-rewritten-live/)**
+**[Play it here](https://dernamenlosedaniel.github.io/incremental-adventure-rewritten-live/)**
 
 This repository holds the built output only. The source lives in a separate private repository, so please don't open issues or pull requests here — everything in this repo is overwritten on each release.
